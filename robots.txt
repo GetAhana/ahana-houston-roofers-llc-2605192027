@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahana-houston-roofers-llc-2605192027.netlify.app/sitemap.xml
